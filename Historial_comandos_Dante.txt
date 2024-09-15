@@ -1,0 +1,48 @@
+bagrant status
+vagrant status
+vagrant halt
+exit
+pwd
+cd/
+cd /
+ls
+man pwd
+shh-keygen
+ssh-keygen
+ls
+[200~cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+cat
+cat $HOME/.ssh/*.pub
+ls -la
+ls -la $HOME/.ssh
+ssh-keygen
+ls -la $HOME/.ssh
+cat $HOME/.ssh/*.pub
+ls -la
+cd repogit
+git clone git@github.com:DanteSchiaffino/TP_AySO.git
+ls
+cd TP_AySO/
+pwd
+ls .l
+ls -l
+cat/etc/os-release
+cat /etc/os-release
+grep help
+cd repogit
+cd TP_AySO/
+man grep
+cd gitremote
+la
+cd repogit
+cd TP_AySO/
+cat <<EOF >> README.md
+Alumno: <Dante>
+División: <116>
+Turno: <Mañana>
+EOF
+
+git add README.md
+git commit -m "información del alumno"
+history -a
